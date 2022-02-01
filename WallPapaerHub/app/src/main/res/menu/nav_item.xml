@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+        android:id="@+id/mountain"
+        android:title="Mountains" />
+    <item
+        android:id="@+id/nature"
+        android:title="Nature" />
+    <item
+        android:id="@+id/cars"
+        android:title="Cars"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/bikes"
+        android:title="Bikes" />
+
+</menu>
